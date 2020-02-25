@@ -1,0 +1,10 @@
+C:\workspace\zeusongit\MyFirstApp\MyFirstApp\bin\Release\netcoreapp3.0\win-x64\MyFirstApp.exe
+C:\workspace\zeusongit\MyFirstApp\MyFirstApp\bin\Release\netcoreapp3.0\win-x64\MyFirstApp.deps.json
+C:\workspace\zeusongit\MyFirstApp\MyFirstApp\bin\Release\netcoreapp3.0\win-x64\MyFirstApp.runtimeconfig.json
+C:\workspace\zeusongit\MyFirstApp\MyFirstApp\bin\Release\netcoreapp3.0\win-x64\MyFirstApp.runtimeconfig.dev.json
+C:\workspace\zeusongit\MyFirstApp\MyFirstApp\bin\Release\netcoreapp3.0\win-x64\MyFirstApp.dll
+C:\workspace\zeusongit\MyFirstApp\MyFirstApp\bin\Release\netcoreapp3.0\win-x64\MyFirstApp.pdb
+C:\workspace\zeusongit\MyFirstApp\MyFirstApp\obj\Release\netcoreapp3.0\win-x64\MyFirstApp.AssemblyInfoInputs.cache
+C:\workspace\zeusongit\MyFirstApp\MyFirstApp\obj\Release\netcoreapp3.0\win-x64\MyFirstApp.AssemblyInfo.cs
+C:\workspace\zeusongit\MyFirstApp\MyFirstApp\obj\Release\netcoreapp3.0\win-x64\MyFirstApp.dll
+C:\workspace\zeusongit\MyFirstApp\MyFirstApp\obj\Release\netcoreapp3.0\win-x64\MyFirstApp.pdb
